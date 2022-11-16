@@ -1,0 +1,2 @@
+-wrzucic komunikaty dotyczące efektów strzelania.
+strzał w strzelany
